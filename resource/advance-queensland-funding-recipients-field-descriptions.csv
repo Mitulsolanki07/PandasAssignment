@@ -1,0 +1,20 @@
+Header,Description,Field Type
+Program,Name of Advance Queensland Program.,text
+Round ,The program's funding round in which the recipient was successful.,text
+Recipient Name,Name of the primary successful applicant that received the funding/AQ opportunity - as set out on the original application/entry/response. ,text
+Physical Address of Recipient - Suburb/Location,Suburb or town of the recipient's address.,text
+Physical Address of Recipient - Post Code,"Postcode of the recipient's address.
+",number
+University Collaborator (if applicable),The name of the university(ies) that  collaborate with the main recipient of the AQ funding to support delivery of the agreed project deliverables.,text
+Other Partners | Collaborators (if applicable),The name of the body(ies) other than universities [including individuals and business entities] that will collaborate with the main recipient of the AQ funding to support delivery of the agreed project deliverables.,text
+Investment/Project Title,Brief title of the activity for which the recipient is receiving funding or benefit.,text
+Primary Location of Activity/Project - Suburb,"Suburb or Town of the recipient's project.
+",text
+Primary Location of Activity/Project - Post Code,"Postcode of the recipient's project.
+",number
+Multiple Locations of Activity/Project (if applicable),Where the activity/project will not be delivered in a single location but in multiple locations or across the State,text
+Approval date,Date funding was approved to be given to the recipient.,date
+Local Government /Council,Local Government area based on the recipient's address.,text
+RAP Region,Regional Action Plan (RAP) region is based on the suburb/location of the project.,text
+State Electorate,State electorate based on the recipient address.,text
+Actual Contractual Commitment ($),"Amount of funding approved to be given to the recipient, exclusive of GST or where the contract has been varied and therefore the contractual commitment is different to the approved funding amount.",number
